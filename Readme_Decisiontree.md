@@ -54,3 +54,13 @@ With hyperparameter tuning and cross‑validation, the model achieved solid accu
 ***Decision Tree*** modeling proved effective in classifying patient attributes to predict suitable drug types with accuracy and interpretability.
 
 
+***Assignment Files***
+
+- [ML_Assignment_4_supervised_decisiontree_hyperparameter_tuning_drug200.py](ML_Assignment_4_supervised_decisiontree_hyperparameter_tuning_drug200.py)  
+- [ML_Assignment_4_supervised_decisiontree_hyperparameter_tuning_drug200.ipynb](ML_Assignment_4_supervised_decisiontree_hyperparameter_tuning_drug200.ipynb)
+
+
+***Data***
+
+- [drug200.csv](drug200.csv)
+
